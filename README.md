@@ -1,0 +1,2 @@
+# linuxkurssi
+Koulun linux kurssi
