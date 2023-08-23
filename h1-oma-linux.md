@@ -36,6 +36,8 @@ Ilman näitä vapauksia, ohjelmistoa ei voi kutsua vapaaksi.
 
 **Tämä asennus suoritettiin Windows 10 käyttöjärjestelmällä 23.8.2023.**
 
+**VirtualBox versio 7.0.10**
+
 - Asensin ensin VirtualBox ohjelmiston
 - Ohjelmiston käynnistyttyä painoin "New" nappia
 
